@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/daniel-de-souza-iseri-12b558230)
 <!--
 **daniiseri/daniiseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
